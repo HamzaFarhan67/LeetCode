@@ -21,3 +21,6 @@ class Solution(object):
         
         ntemp.next=ntemp.next.next
         return head
+
+
+#asasa
